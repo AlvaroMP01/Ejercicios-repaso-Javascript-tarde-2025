@@ -142,7 +142,7 @@ export const productos = [
     id: 101,
     nombre: "Laptop Pro 15\"",
     descripcion: "Portátil de alta gama con procesador Intel i7, 16GB RAM y SSD de 512GB",
-    categoría: "Electrónica",
+    categoria: "Electronica",
     precio: 1299.99,
     precioAnterior: 1499.99,
     stock: 15,
@@ -157,8 +157,8 @@ export const productos = [
   {
     id: 102,
     nombre: "Auriculares Bluetooth X5",
-    descripción: "Auriculares inalámbricos con cancelación de ruido y 30h de autonomía",
-    categoría: "Electrónica",
+    descripcion: "Auriculares inalámbricos con cancelación de ruido y 30h de autonomía",
+    categoria: "Electronica",
     precio: 79.99,
     precioAnterior: 99.99,
     stock: 50,
@@ -173,8 +173,8 @@ export const productos = [
   {
     id: 103,
     nombre: "Mesa de escritorio Oak",
-    descripción: "Mesa de madera de roble con espacio para cableado integrado",
-    categoría: "Muebles",
+    descripcion: "Mesa de madera de roble con espacio para cableado integrado",
+    categoria: "Muebles",
     precio: 189.99,
     precioAnterior: null,
     stock: 8,
@@ -189,8 +189,8 @@ export const productos = [
   {
     id: 104,
     nombre: "Silla ergonómica Comfort",
-    descripción: "Silla de oficina con soporte lumbar y reposabrazos ajustables",
-    categoría: "Muebles",
+    descripcion: "Silla de oficina con soporte lumbar y reposabrazos ajustables",
+    categoria: "Muebles",
     precio: 249.99,
     precioAnterior: 299.99,
     stock: 12,
@@ -205,8 +205,8 @@ export const productos = [
   {
     id: 105,
     nombre: "Monitor 27\" 4K",
-    descripción: "Monitor IPS 4K con 144Hz y compatibilidad HDR",
-    categoría: "Electrónica",
+    descripcion: "Monitor IPS 4K con 144Hz y compatibilidad HDR",
+    categoria: "Electronica",
     precio: 329.99,
     precioAnterior: 399.99,
     stock: 20,
@@ -221,8 +221,8 @@ export const productos = [
   {
     id: 106,
     nombre: "Teclado mecánico RGB",
-    descripción: "Teclado mecánico con iluminación RGB personalizable y switches azules",
-    categoría: "Electrónica",
+    descripcion: "Teclado mecánico con iluminación RGB personalizable y switches azules",
+    categoria: "Electronica",
     precio: 89.99,
     precioAnterior: null,
     stock: 35,
@@ -237,8 +237,8 @@ export const productos = [
   {
     id: 107,
     nombre: "Ratón gaming inalámbrico",
-    descripción: "Ratón gaming con sensor de 16000 DPI y 70h de batería",
-    categoría: "Electrónica",
+    descripcion: "Ratón gaming con sensor de 16000 DPI y 70h de batería",
+    categoria: "Electronica",
     precio: 59.99,
     precioAnterior: 79.99,
     stock: 25,
@@ -253,8 +253,8 @@ export const productos = [
   {
     id: 108,
     nombre: "Lámpara LED inteligente",
-    descripción: "Lámpara con control por app y más de 16 millones de colores",
-    categoría: "Hogar",
+    descripcion: "Lámpara con control por app y más de 16 millones de colores",
+    categoria: "Hogar",
     precio: 39.99,
     precioAnterior: null,
     stock: 45,
@@ -344,7 +344,7 @@ export const pedidos = [
 
 // Array simple: Categorías
 export const categorias = [
-  "Electrónica",
+  "Electronica",
   "Muebles",
   "Ropa",
   "Alimentación",
