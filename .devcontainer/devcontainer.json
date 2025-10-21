@@ -74,9 +74,9 @@
     }
   },
   "appPort": ["5175:5173"],
-  "postCreateCommand": "sudo chown -R node:node /workspaces/DevContainer-Javascript-Vite-Taiwind && npm install",
+  "postCreateCommand": "sudo chown -R node:node /workspaces/Ejercicios-repaso-Javascript-tarde-2025 && npm install",
   "remoteUser": "node",
   "containerUser": "root",
   "updateRemoteUserUID": true,
-  "workspaceFolder": "/workspaces/DevContainer-Javascript-Vite-Taiwind"
+  "workspaceFolder": "/workspaces/Ejercicios-repaso-Javascript-tarde-2025"
 }
